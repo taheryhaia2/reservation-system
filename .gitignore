@@ -1,0 +1,21 @@
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Build / Maven
+target/
+*.jar
+*.war
+
+# Logs & Docker volumes
+*.log
+pgdata/
